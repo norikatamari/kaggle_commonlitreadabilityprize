@@ -1,0 +1,106 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: ex001",
+            "type": "python",
+            "request": "launch",
+            "program": "ex001_roberta_pretrain/commonlit-readability-prize-roberta-torch-itpt.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: ex002",
+            "type": "python",
+            "request": "launch",
+            "program": "ex002_roberta_train/commonlit-readability-prize-roberta-torch-fit.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: ex003",
+            "type": "python",
+            "request": "launch",
+            "program": "ex003_roberta_train/commonlit-readability-prize-roberta-torch-fit.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: ex005",
+            "type": "python",
+            "request": "launch",
+            "program": "ex005_roberta/pre-trained-roberta-solution-in-pytorch.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: ex005 predict",
+            "type": "python",
+            "request": "launch",
+            "program": "ex005_roberta/predict.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: ex007",
+            "type": "python",
+            "request": "launch",
+            "program": "ex007_roberta/pre-trained-roberta-solution-in-pytorch.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: ex011",
+            "type": "python",
+            "request": "launch",
+            "program": "ex011_roberta_large/train_roberta.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: ex015",
+            "type": "python",
+            "request": "launch",
+            "program": "ex015_roberta_large/train_roberta.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: ex025",
+            "type": "python",
+            "request": "launch",
+            "program": "ex025_roberta_large/train_roberta.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: ex026",
+            "type": "python",
+            "request": "launch",
+            "program": "ex026_roberta_large/train_roberta.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: ex031",
+            "type": "python",
+            "request": "launch",
+            "program": "ex031_roberta/pre-trained-roberta-solution-in-pytorch.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: ex032",
+            "type": "python",
+            "request": "launch",
+            "program": "ex032_roberta/pre-trained-roberta-solution-in-pytorch.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: ex035",
+            "type": "python",
+            "request": "launch",
+            "program": "ex035_roberta_large/train_roberta.py",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: ex047",
+            "type": "python",
+            "request": "launch",
+            "program": "ex047_roberta_large/train_roberta.py",
+            "console": "integratedTerminal"
+        },
+    ]
+}
